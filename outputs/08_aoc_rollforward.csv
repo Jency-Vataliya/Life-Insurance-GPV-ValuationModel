@@ -1,0 +1,6 @@
+Step,Amount
+1. Opening Reserve (t = 0),1085801152.8613863
+2. Expected Cash Flow & Interest Roll-Forward,49150258.353375435
+3. Lapse Experience Variance (Actual < Expected),6101889.30760622
+4. Economic Assumption Change (-25 bps Yield Shift),32199201.575764418
+5. Closing Reserve (t = 1),1173252502.0981324
